@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230684114508",
+    "project_id": "sh-todo-app",
+    "storage_bucket": "sh-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230684114508:android:bc39c1d65fc0ffa5e57ee9",
+        "android_client_info": {
+          "package_name": "com.mytodo.net.mytodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcmDEXtN5KP6ggIcTjHFuGO47S_OVzgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230684114508:android:215b335c3dcbe4a2e57ee9",
+        "android_client_info": {
+          "package_name": "com.shtodo.net.shtodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcmDEXtN5KP6ggIcTjHFuGO47S_OVzgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
